@@ -1,0 +1,34 @@
+_repo: The-high-school-course-in-English_69236
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bleyer, Willard Grosvenor
+    aliases:
+    - Bleyer, Daddy
+    - Bleyer, Willard G.
+    birthdate: 1873
+    deathdate: 1935
+    gutenberg_agent_id: '6220'
+    url: http://www.gutenberg.org/2009/agents/6220
+description: ''
+gutenberg_issued: '2022-10-26'
+identifiers:
+  gutenberg: '69236'
+language: en
+pgterms:marc904: https://archive.org/details/highschoolcourse00bleyrich
+pgterms:marc905: 20190221193330bleyer
+pgterms:marc906: '1907'
+pgterms:marc907: US
+production_note: Richard Tonsing and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: 'United States: University of Wisconsin,1907.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English language -- Study and teaching (Secondary)'
+- !lcsh 'English literature -- Study and teaching (Secondary)'
+- !lcc 'LB'
+- GITenberg
+title: The high school course in English
+url: http://www.gutenberg.org/ebooks/69236
